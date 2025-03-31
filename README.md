@@ -109,10 +109,11 @@ If long wait times are an issue, optimizing staffing schedules, triage efficienc
 Gender and age distribution insights can influence targeted healthcare improvements for specific patient groups.
 
 
-📬 Contact
-For any queries or suggestions, feel free to connect:
+# 📬 Contact
+### For any queries or suggestions, feel free to connect:
 
-LinkedIn: Abhishek Mahadev Raut
-GitHub: abhishekraut1224
-Mail: abhiraut1224@gmail.com
+## LinkedIn: Abhishek Mahadev Raut
+## GitHub: abhishekraut1224
+## Mail: abhiraut1224@gmail.com
+
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
