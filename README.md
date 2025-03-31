@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/05345e43-4f14-40c5-b420-fae2c19c5889)
+
 # Hospital Emergency Room Analysis Dashboard
 
 ## Project Title
