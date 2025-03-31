@@ -73,7 +73,7 @@ End Sub
 ## Visualization and Insights
 The dashboard includes the following visualizations
 Pie Charts: 
-Patient attended within time
+Patient attended on time
 Number of patients by gender
 
 Horizontal Bar Graphs:
@@ -107,3 +107,12 @@ Departments experiencing high referrals can reallocate resources to reduce bottl
 If long wait times are an issue, optimizing staffing schedules, triage efficiency, and patient handling procedures can improve service.
 
 Gender and age distribution insights can influence targeted healthcare improvements for specific patient groups.
+
+
+📬 Contact
+For any queries or suggestions, feel free to connect:
+
+LinkedIn: Abhishek Mahadev Raut
+GitHub: abhishekraut1224
+Mail: abhiraut1224@gmail.com
+⭐ If you found this project helpful, consider giving it a star on GitHub!
